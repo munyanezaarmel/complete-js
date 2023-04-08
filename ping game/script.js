@@ -24,5 +24,7 @@ roll.addEventListener('click', function () {
     document.getElementById(`current--${state}`).textContent = 0;
     current = 0;
     state = state === 0 ? 1 : 0;
+    
   }
 });
+
