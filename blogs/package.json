@@ -1,0 +1,19 @@
+{
+  "name": "blogs",
+  "version": "1.0.0",
+  "description": "a simple crud nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "author": "armelmunyaneza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
